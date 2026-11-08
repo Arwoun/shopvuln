@@ -1,8 +1,8 @@
-# ShopVuln — entraînement examen « Test intrusion web & remédiation »
+# ShopVuln — entraînement  « Test intrusion web & remédiation »
 
 > ⚠️ Application **volontairement vulnérable**. À lancer uniquement en local. Ne jamais la déployer.
 
-## Le sujet (comme vendredi)
+## Le sujet
 
 ShopVuln est une petite boutique en ligne (Node.js / Express / SQLite).
 Elle contient **10 vulnérabilités**. Ta mission, en **1 heure** :
